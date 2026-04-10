@@ -79,11 +79,11 @@ Salario = salariob + adicional
 
 1. Compile o código:  
 ```java
-javac A3.java  
+javac folhaPagamento.java  
 ```
 2. Execute o programa: 
 ```java
-java A3  
+java folhaPagamento  
 ```
 
 ## ⚠️ Validações
